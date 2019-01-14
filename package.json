@@ -1,0 +1,26 @@
+{
+  "name": "rstest1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahmona-henry/rstest1.git"
+  },
+  "author": "rahmona henry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rahmona-henry/rstest1/issues"
+  },
+  "homepage": "https://github.com/rahmona-henry/rstest1#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "install": "^0.12.2",
+    "npm": "^6.5.0"
+  }
+}
